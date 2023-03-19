@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/posisttech/static/css/main.e0c8612b.css",
+    "main.js": "/posisttech/static/js/main.acdd4667.js",
+    "index.html": "/posisttech/index.html",
+    "main.e0c8612b.css.map": "/posisttech/static/css/main.e0c8612b.css.map",
+    "main.acdd4667.js.map": "/posisttech/static/js/main.acdd4667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c8612b.css",
+    "static/js/main.acdd4667.js"
+  ]
+}
